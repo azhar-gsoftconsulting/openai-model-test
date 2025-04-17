@@ -1,0 +1,12 @@
+Model: gpt-4
+Response Time: 10.58 seconds
+Output:
+Machine learning is like teaching a computer to recognize patterns and make decisions based on those patterns, similar to how humans learn from experience.
+
+Here's a simple example. Let's say we are teaching a child to recognize a cat. We show them several photos of different cats and every time they see a cat, we tell them "This is a cat". Over time, the child learns to recognize cats on their own, even ones they have never seen before, by identifying features such as whiskers, furry body, four legs, and a tail.
+
+Machine learning works similarly. We feed a computer a lot of data, like images of cats, and tell it "This is a cat". The computer then analyzes the data and learns to identify features that make a cat a cat. Once the model is trained, it can identify cats in new images it has never seen before.
+
+There are different types of machine learning like supervised learning (where we provide the correct answers), unsupervised learning (where the machine figures out patterns on its own), and reinforcement learning (where the machine learns by trial and error).
+
+In all these types, the goal is to create a model that can make accurate predictions or decisions based on the data it has learned from.

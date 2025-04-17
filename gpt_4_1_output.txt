@@ -1,0 +1,13 @@
+Model: gpt-4.1
+Response Time: 7.05 seconds
+Output:
+Sure! Think of machine learning like teaching a computer how to recognize patterns or make decisions by showing it lots of examples, instead of giving it step-by-step instructions.
+
+Here’s a simple example:
+
+Imagine you want a computer to tell the difference between pictures of cats and dogs. Instead of telling the computer all the features of cats and dogs, you show it many pictures labeled “cat” or “dog.” The computer looks for patterns—like ear shape, fur type, or face structure—that help it guess if a new picture is a cat or a dog.
+
+Over time and with enough practice (examples), the computer gets better at making these guesses. That’s machine learning: computers learning from data, improving over time, and making predictions!
+
+In short:  
+**Machine learning is when a computer learns from examples instead of being told exactly what to do.**

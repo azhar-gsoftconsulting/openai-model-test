@@ -1,0 +1,18 @@
+Model: gpt-4.1-nano
+Response Time: 4.12 seconds
+Output:
+Sure! Think of machine learning as teaching a computer to learn from examples, kind of like how humans learn.
+
+Here's a simple way to understand it:
+
+1. **Data Collection:** First, we gather lots of examples related to what we want the computer to learn. For instance, pictures of cats and dogs, along with labels that say "cat" or "dog."
+
+2. **Training:** We give this data to the computer and let it analyze the examples. It looks for patterns—like shapes, colors, or features—that distinguish cats from dogs.
+
+3. **Learning:** The computer uses these patterns to build a model—a kind of rulebook—that can make predictions or decisions based on new, unseen data.
+
+4. **Testing:** We then test the model with new data to see how well it performs. If it guesses correctly most of the time, it's learned well!
+
+5. **Using the Model:** Finally, we can use this trained model to identify new pictures, predict future outcomes, or solve problems.
+
+In short, machine learning is about teaching computers to recognize patterns in data so they can make intelligent decisions on their own.

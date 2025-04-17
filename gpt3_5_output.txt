@@ -1,0 +1,9 @@
+Model: gpt-3.5-turbo
+Response Time: 1.75 seconds
+Output:
+Machine learning is a type of technology where computers learn to make decisions or 
+predictions without being explicitly programmed to do so. This is done by feeding 
+the computer lots of data and algorithms that help it identify patterns and make 
+sense of the information. The computer uses this data to learn and improve its 
+performance over time. It's like teaching a computer to recognize patterns and 
+make decisions based on examples it has seen before.
